@@ -1,0 +1,1256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-27T22:50:57.705+00:00
+  initializedAtString: 2020-10-27T22:14:34.966+00:00
+  entries:
+  - path: Block_Breaker\Block Breaker\.vs\Block Breaker\v16\.suo
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\.vs\Block
+      Breaker\v16\.suo
+    projectPath: .vs\Block Breaker\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Assembly-CSharp.csproj
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Assets\Audio.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio.meta
+    projectPath: Assets\Audio.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Bounce.ogg
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Bounce.ogg
+    projectPath: Assets\Audio\SFX_Bounce.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Bounce.ogg.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Bounce.ogg.meta
+    projectPath: Assets\Audio\SFX_Bounce.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click.ogg
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click.ogg
+    projectPath: Assets\Audio\SFX_Click.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click.ogg.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click.ogg.meta
+    projectPath: Assets\Audio\SFX_Click.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_2.ogg
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_2.ogg
+    projectPath: Assets\Audio\SFX_Click_2.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_2.ogg.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_2.ogg.meta
+    projectPath: Assets\Audio\SFX_Click_2.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_3.ogg
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_3.ogg
+    projectPath: Assets\Audio\SFX_Click_3.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_3.ogg.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Click_3.ogg.meta
+    projectPath: Assets\Audio\SFX_Click_3.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Clunk.ogg
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Clunk.ogg
+    projectPath: Assets\Audio\SFX_Clunk.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Audio\SFX_Clunk.ogg.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Audio\SFX_Clunk.ogg.meta
+    projectPath: Assets\Audio\SFX_Clunk.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Assets\Scenes\Level 2.unity
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Scenes\Level
+      2.unity
+    projectPath: Assets\Scenes\Level 2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Assets\Scripts\Ball.cs
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Assets\Scripts\Ball.cs
+    projectPath: Assets\Scripts\Ball.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Block Breaker.sln
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Block Breaker.sln
+    projectPath: Block Breaker.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\AnnotationManager
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ArtifactDB
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    projectPath: Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    projectPath: Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    projectPath: Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\17\170250fed11d39cb1281c2190a5b14b0
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\17\170250fed11d39cb1281c2190a5b14b0
+    projectPath: Library\Artifacts\17\170250fed11d39cb1281c2190a5b14b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\1c\1c0a41698a103f5a5a22ea7c78edb71e
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\1c\1c0a41698a103f5a5a22ea7c78edb71e
+    projectPath: Library\Artifacts\1c\1c0a41698a103f5a5a22ea7c78edb71e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    projectPath: Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    projectPath: Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\31\3171eaa22648ed75a728f7eb7cdd7f50
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\31\3171eaa22648ed75a728f7eb7cdd7f50
+    projectPath: Library\Artifacts\31\3171eaa22648ed75a728f7eb7cdd7f50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    projectPath: Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    projectPath: Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    projectPath: Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\3e\3eff5f72afcecbff081bc14fdf7bf8be
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\3e\3eff5f72afcecbff081bc14fdf7bf8be
+    projectPath: Library\Artifacts\3e\3eff5f72afcecbff081bc14fdf7bf8be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    projectPath: Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    projectPath: Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\4d\4d8806e625b9f583a86d81e02376f4a9
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\4d\4d8806e625b9f583a86d81e02376f4a9
+    projectPath: Library\Artifacts\4d\4d8806e625b9f583a86d81e02376f4a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    projectPath: Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    projectPath: Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    projectPath: Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    projectPath: Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    projectPath: Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    projectPath: Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    projectPath: Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\72\72f716036132657026d0ce6399ed1538
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\72\72f716036132657026d0ce6399ed1538
+    projectPath: Library\Artifacts\72\72f716036132657026d0ce6399ed1538
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    projectPath: Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\77\77e7ad83646934463ee35850d0de7829
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\77\77e7ad83646934463ee35850d0de7829
+    projectPath: Library\Artifacts\77\77e7ad83646934463ee35850d0de7829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    projectPath: Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\85\85ccbd1072ba76028cf5937c0f05f85c
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\85\85ccbd1072ba76028cf5937c0f05f85c
+    projectPath: Library\Artifacts\85\85ccbd1072ba76028cf5937c0f05f85c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\87\8728a332df46613cedfda6ce7b5d781a
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\87\8728a332df46613cedfda6ce7b5d781a
+    projectPath: Library\Artifacts\87\8728a332df46613cedfda6ce7b5d781a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    projectPath: Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    projectPath: Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\8b\8b4a10dabd13fa6b09cda5bb9c010bcb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\8b\8b4a10dabd13fa6b09cda5bb9c010bcb
+    projectPath: Library\Artifacts\8b\8b4a10dabd13fa6b09cda5bb9c010bcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\91\91a6de8d62dccde7c1b1b258c43207ef
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\91\91a6de8d62dccde7c1b1b258c43207ef
+    projectPath: Library\Artifacts\91\91a6de8d62dccde7c1b1b258c43207ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    projectPath: Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\98\98a43783b3abe5356887b98a4c933bd3
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\98\98a43783b3abe5356887b98a4c933bd3
+    projectPath: Library\Artifacts\98\98a43783b3abe5356887b98a4c933bd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\9f\9f4fa14917ed940b018e3752682410ba
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\9f\9f4fa14917ed940b018e3752682410ba
+    projectPath: Library\Artifacts\9f\9f4fa14917ed940b018e3752682410ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\a2\a2345ea377c8f904e420dbced68374f2
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\a2\a2345ea377c8f904e420dbced68374f2
+    projectPath: Library\Artifacts\a2\a2345ea377c8f904e420dbced68374f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\a8\a8f9a279567b76b9a13184747ac879e1
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\a8\a8f9a279567b76b9a13184747ac879e1
+    projectPath: Library\Artifacts\a8\a8f9a279567b76b9a13184747ac879e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\b0\b025eba27a6a2f5edd221dd4e3129dd1
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\b0\b025eba27a6a2f5edd221dd4e3129dd1
+    projectPath: Library\Artifacts\b0\b025eba27a6a2f5edd221dd4e3129dd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\b1\b17b3c42dbc7119d87dba1485e99a77a
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\b1\b17b3c42dbc7119d87dba1485e99a77a
+    projectPath: Library\Artifacts\b1\b17b3c42dbc7119d87dba1485e99a77a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\b2\b2b7c222dd87e9f71c582f2f186e2b1b
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\b2\b2b7c222dd87e9f71c582f2f186e2b1b
+    projectPath: Library\Artifacts\b2\b2b7c222dd87e9f71c582f2f186e2b1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    projectPath: Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\bb\bb8be7c37396bdb5b25b86f12a59c1c0
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\bb\bb8be7c37396bdb5b25b86f12a59c1c0
+    projectPath: Library\Artifacts\bb\bb8be7c37396bdb5b25b86f12a59c1c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    projectPath: Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    projectPath: Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+    projectPath: Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    projectPath: Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\c8\c8908493e7e853a1302a1d606b1c7e9e
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\c8\c8908493e7e853a1302a1d606b1c7e9e
+    projectPath: Library\Artifacts\c8\c8908493e7e853a1302a1d606b1c7e9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    projectPath: Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    projectPath: Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\d4\d42bc96a6bed46907282a6f8bc486289
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\d4\d42bc96a6bed46907282a6f8bc486289
+    projectPath: Library\Artifacts\d4\d42bc96a6bed46907282a6f8bc486289
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    projectPath: Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    projectPath: Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\ee\ee6c236049fe349a8965b2ae34ecea1b
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\ee\ee6c236049fe349a8965b2ae34ecea1b
+    projectPath: Library\Artifacts\ee\ee6c236049fe349a8965b2ae34ecea1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\f3\f3cc09528698a123d7210d116bfa5ea5
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\f3\f3cc09528698a123d7210d116bfa5ea5
+    projectPath: Library\Artifacts\f3\f3cc09528698a123d7210d116bfa5ea5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\f5\f5862be1a2dcc19771d37b8681411c21
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\f5\f5862be1a2dcc19771d37b8681411c21
+    projectPath: Library\Artifacts\f5\f5862be1a2dcc19771d37b8681411c21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\fb\fb2b020fcd520ecf737c094348709396
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\fb\fb2b020fcd520ecf737c094348709396
+    projectPath: Library\Artifacts\fb\fb2b020fcd520ecf737c094348709396
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    projectPath: Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\EditorInstance.json
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\PsdPlugin.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\PsdPlugin.pdb
+    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Mathematics.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\SourceAssetDB
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\StateCache\Hierarchy\323a4c-mainStage.json
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\StateCache\Hierarchy\323a4c-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\323a4c-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\Library\StateCache\SceneView\2215c4-mainStage.json
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Library\StateCache\SceneView\2215c4-mainStage.json
+    projectPath: Library\StateCache\SceneView\2215c4-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Block_Breaker\Block Breaker\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Temp\UnityLockfile
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Temp\UnityTempFile-74a98c4c4e48d054cac212d96507bae8
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Temp\UnityTempFile-74a98c4c4e48d054cac212d96507bae8
+    projectPath: Temp\UnityTempFile-74a98c4c4e48d054cac212d96507bae8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Temp\UnityTempFile-757803ffc73389d4eb02875698830e9b
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Temp\UnityTempFile-757803ffc73389d4eb02875698830e9b
+    projectPath: Temp\UnityTempFile-757803ffc73389d4eb02875698830e9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Block_Breaker\Block Breaker\Temp\UnityTempFile-c3251195c2546c048ac95295bbd523cd
+    fullPath: C:\Users\Denze\UnityPractice\Block_Breaker\Block Breaker\Temp\UnityTempFile-c3251195c2546c048ac95295bbd523cd
+    projectPath: Temp\UnityTempFile-c3251195c2546c048ac95295bbd523cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
